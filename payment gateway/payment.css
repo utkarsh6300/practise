@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+}
+
+
+/* form { 
+
+
+ background-image: url("https://source.unsplash.com/weekly?water"); 
+
+
+}
+*/
+
+h1 {
+    text-decoration: dashed;
+    border: 20px;
+}
+
+input [type=submit] {
+    background: #0066A2;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 50px;
+    border: 0;
+    border-radius: 5px;
+    font: bold 15px arial, sans-serif;
+    text-shadow: none;
+}
+
+p {
+    font-weight: 1000;
+}

@@ -1,0 +1,84 @@
+* {
+    margin: 0%;
+}
+
+nav {
+    background-color: bisque;
+    border: 12px;
+    padding: 5px;
+    width: 100%;
+    height: 54px;
+}
+
+.inav {
+    padding: 13px;
+    border: 10px;
+    font-size: medium;
+    height: 28px;
+    width: 98%;
+}
+
+.inav a:hover {
+    color: blue;
+}
+
+.inav a {
+    height: 17px;
+    float: left;
+    text-align: center;
+    padding-right: 12px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-top: 5px;
+    text-decoration: solid;
+    font-size: large;
+    color: rgb(75, 55, 55);
+}
+
+h1 {
+    background-color: rgb(76, 221, 141);
+    text-align: center;
+    height: 79px;
+    padding: 12px;
+    font-size: 67px;
+}
+
+form {
+    background-color: rgb(164, 182, 84);
+    text-align: center;
+    padding: 12px;
+}
+
+input [type=submit] {
+    background-color: #060b0e;
+    border-style: outset;
+    border-color: #040a0e;
+    height: 50px;
+    border: 0;
+    border-radius: 5px;
+    font: bold 15px arial, sans-serif;
+    text-shadow: none;
+}
+
+.field {
+    font-size: 25px;
+}
+
+p {
+    margin: 18px;
+    font-size: 24px;
+}
+
+.design1 {
+    background-color: rgb(163, 107, 185);
+    height: 44px;
+    width: 75px;
+    margin: 15px;
+    border: 0px;
+    font-size: 14px;
+    font: bold;
+}
+
+h2 {
+    font-size: 33px;
+}

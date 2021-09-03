@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+
+<body>
+    <header>
+
+        <h1>Web Dev Competition</h1>
+
+
+        <nav class="inav">
+            <a href="index.html">Home</a>
+            <a href="Rform.html">Resigstration form</a>
+            <a href="weather.html">Weather</a>
+            <a href="updates.html">Updates</a>
+
+            <a href="#">List of participants</a>
+            <a href="login.html">Login</a>
+
+        </nav>
+
+
+    </header>
+    <form action="">
+        <h2>SignUp</h2>
+        <p class="field">* Marked fields are mandatory</p>
+        <p>Name *<input type="text" name="name" required>
+        </p>
+
+        <fieldset>
+
+            <legend style="font-size: 39px;">Gender *</legend>
+            <p>
+                Male <input type="radio" name="gender" id="male" required> Female <input type="radio" name="gender" id="female" required>
+            </p>
+        </fieldset>
+        <p>Address: <textarea name="address" id="address" cols="100" rows="10"></textarea></p>
+        <p>Pincode: *<input type="number" name="pincode" id="pincode" required></p>
+        <p>Email:* <input type="email" name="email" id="email" required></p>
+        <div>
+            <input type="submit" value="SignUp" class="design1">
+            <input type="reset" value="Reset" class="design1">
+        </div>
+    </form>
+    <footer>
+        <nav class="inav">
+            <a href="#">About us</a>
+            <a href="#">Contact Us</a>
+            <a href="#">Copyright</a>
+
+        </nav>
+
+    </footer>
+</body>
+
+</html>

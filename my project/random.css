@@ -1,0 +1,42 @@
+* {
+    margin-top: 25px;
+}
+
+#footer-wrapper {
+    padding: 1em 0 1em 0;
+}
+
+#footer-wrapper {
+    padding: 1em 0 1em 0;
+}
+
+#footer-wrapper {
+    width: 100%;
+    background: #15314e;
+    position: relative;
+    background-color: rgb(40 53 68);
+    background-repeat: repeat-x, no-repeat, repeat;
+    background-size: 100% 100%, 100% 15em, auto auto;
+    background-position: top left, top center, top left;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+#con {
+    font-size: 45px;
+}
+
+a {
+    color: rgb(70 103 80);
+    color: rgb(39, 112, 88);
+}

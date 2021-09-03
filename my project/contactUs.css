@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    margin-left: 12px;
+    background-color: rgb(209, 168, 113);
+}
+
+h1 {
+    font-size: 43px;
+}
+
+img {
+    width: 28%;
+    height: 448px;
+}
+
+p {
+    font-size: 33px;
+}
+
+.refer {
+    border: 5px solid rgb(83, 56, 56);
+    border-radius: 10px;
+    margin: 12px;
+    padding: 12px;
+    font-size: 22px;
+    background-color: rgb(25, 25, 32);
+    color: rgb(81, 98, 112);
+    font: bold;
+}

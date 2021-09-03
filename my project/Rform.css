@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    margin: 12px;
+}
+
+form {
+    background-image: url(img/WhatsApp\ Image\ 2021-07-02\ at\ 10.11.51\ AM.jpeg);
+    background-size: 1000px 10000px;
+    width: 480px;
+    margin: auto;
+    padding: 5px;
+    border: solid black 1px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px #888;
+    margin-top: 0%;
+}
